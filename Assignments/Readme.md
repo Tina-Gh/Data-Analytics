@@ -1,1 +1,1 @@
-## The Sourse Assignments
+## The Course Assignments
