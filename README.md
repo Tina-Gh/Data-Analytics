@@ -1,2 +1,3 @@
 # Data-Analytics
-My Data Analytics course codes, assignments and project
+
+My (Data Analytics + Brain-inspired AI) Course Codes, Assignments and Project
