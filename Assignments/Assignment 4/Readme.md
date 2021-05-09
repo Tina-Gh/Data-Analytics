@@ -1,3 +1,3 @@
 ## A couple of Assignments:
 
-Paper summery
+One-page paper summery
